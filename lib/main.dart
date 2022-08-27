@@ -43,7 +43,6 @@ class _MyAppState extends State<MyApp> {
         splashColor: Colors.blue,
         highlightColor: Colors.transparent,
       ),
-
       home: const MainContanainerDart(),
     );
   }
