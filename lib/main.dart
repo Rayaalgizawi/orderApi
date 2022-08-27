@@ -43,10 +43,6 @@ class _MyAppState extends State<MyApp> {
         splashColor: Colors.blue,
         highlightColor: Colors.transparent,
       ),
-      //   splashFactory: NoSplash.splashFactory,
-      //   visualDensity: VisualDensity.adaptivePlatformDensity,
-      //   iconTheme: IconTheme.of(context),
-      // ),
 
       home: const MainContanainerDart(),
     );
